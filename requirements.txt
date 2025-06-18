@@ -11,4 +11,3 @@ fuzzywuzzy
 discord.py==1.7.3
 scikit-learn
 scikit-image
-git+https://github.com/aparkins/pydip
